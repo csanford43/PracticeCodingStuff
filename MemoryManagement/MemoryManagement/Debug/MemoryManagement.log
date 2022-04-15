@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\chelsey.sanford\source\repos\MemoryManagement\MemoryManagement\main.c(90,29): warning C4305: 'function': truncation from 'unsigned int' to 'unsigned short'
+C:\Users\chelsey.sanford\source\repos\MemoryManagement\MemoryManagement\main.c(31): warning C4716: 'myalloc': must return a value
+  MemoryManagement.vcxproj -> C:\Users\chelsey.sanford\source\repos\MemoryManagement\Debug\MemoryManagement.exe
